@@ -1,0 +1,26 @@
+{
+  "name": "virtusa",
+  "version": "1.0.0",
+  "description": "Praticing Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baibhav007/node.js.git"
+  },
+  "author": "Baibhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baibhav007/node.js/issues"
+  },
+  "homepage": "https://github.com/baibhav007/node.js#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongodb": "^4.2.2",
+    "mongoose": "^6.1.3",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {}
+}
